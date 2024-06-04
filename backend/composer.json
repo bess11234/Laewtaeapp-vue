@@ -1,0 +1,13 @@
+{
+    "name": "bess1123/backend",
+    "type": "library",
+    "authors": [
+        {
+            "name": "bess1123",
+            "email": "bess11234@hotmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    }
+}
